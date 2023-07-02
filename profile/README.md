@@ -1,4 +1,4 @@
-# Welcome to RNAppDevs community!
+# Welcome to RNAppDevs community! <img src='https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png' width="40px"/>
 
 ***A community dedicated to making the web more accessible for everyone***
 
@@ -28,9 +28,9 @@ We currently have several projects on the go. Take a look at the issues and chec
 
 If you want to report a problem or suggest an enhancement we'd love for you to open an issue in the relevant github repository because then we can get right on it. But you can also contact Kinji by email (kinjihirayama212@gmail.com).
 
-## Want to join the community?
+## ❤️Want to join the community?❤️
 
-You can join the RNAppDevs community by raising an [issue here](https://github.com/RNAppDevs/.github/issues/new?assignees=&labels=invite+me+to+the+organization&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization).
+You can join the RNAppDevs community by raising an [issue here](https://github.com/RNAppDevs/.github/issues/new?assignees=&labels=invite+me+to+the+organization&template=invitation.yml&title=Please+invite+me+to+the+RNAppDevs+Community).
 
 ## Thank you
 
